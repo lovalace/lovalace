@@ -1,4 +1,4 @@
-### Hi there i'm Erkan and I'm a ABAP Developer 👋
+### Hi there i'm Erkan and I'm an ABAP Developer 👋
 🔭 I’m currently working on Borçelik <br>
 🌱 I’m currently learning everything😂
 💬 Ask me about ... Anything
