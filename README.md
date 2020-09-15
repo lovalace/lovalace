@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there i'm Erkan and I'm a ABAP Developer 👋
+🔭 I’m currently working on Borçelik <br>
+🌱 I’m currently learning everything😂
+💬 Ask me about ... Anything
+
+
+### Connect with me:
+[LinkedIn]: https://www.linkedin.com/in/erkankaratepe
+[<img align="left" alt="erkaratepe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <!--
 **lovalace/lovalace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
